@@ -42,6 +42,8 @@ This project predicts the most suitable crop based on soil nutrients and environ
 - Experimental Results
 - Figures and Visualizations
 
+Note: If GitHub cannot preview the Colab notebook, please use the `.py` source file or download the `.ipynb` file and open it in Google Colab.
+
 ## Author
 Md Rakibul Hasan Rezvee
 Ulope Das 
